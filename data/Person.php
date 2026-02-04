@@ -1,13 +1,6 @@
 <?php
 
-class person {
+class Person {
   // properties
 }
 
-class orang {
-  // properties
-}
-
-class contoh {
-  // properties
-}
