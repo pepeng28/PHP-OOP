@@ -1,6 +1,8 @@
 <?php
 
 class Person {
-  // properties
+  var $name;
+  var $address;
+  var $country;
 }
 
