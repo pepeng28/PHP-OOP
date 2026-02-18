@@ -1,8 +1,8 @@
 <?php
 
 class Person {
-  var $name;
-  var $address;
-  var $country;
+  var string $name;
+  var ?string $address = null;
+  var string $country = "Indonesia";
 }
 
