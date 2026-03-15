@@ -1,6 +1,8 @@
 <?php
 
 class Person {
+  const AUTHOR = "El Coding";
+
   var string $name;
   var ?string $address = null;
   var string $country = "Indonesia";
