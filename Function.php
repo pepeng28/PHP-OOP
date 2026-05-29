@@ -12,4 +12,5 @@ $akmal->name = "akmal";
 
 $akmal->sayHello(null);
 
-
+$el->info();
+$akmal->info();
